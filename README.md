@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Collin Campbell and online I go by some variation of The Heir of Hope.
+
+I am currently working on a medium scale Minecraft mod along with projects for my college classes.
+
+I go to Wright State University and am majoring in computer science with a goal of landing in game development.
+
+You can contact me on discord under the username theheirofhope.
